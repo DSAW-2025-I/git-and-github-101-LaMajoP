@@ -8,6 +8,7 @@
 
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
-- **Nombre completo:**
-- **ID de la Universidad:**
-- **Usuario de Github:**
+- **Nombre completo:** Maria Jose Palomino Carreño
+- **ID de la Universidad:** 0000321271
+- **Usuario de Github:** LaMajoP
+
